@@ -1,0 +1,1001 @@
+Patient,Gender,Contract,Tenure,Charges
+Patient #1,Male,Month-to-month,36 mo,$44.5
+Patient #2,Male,Two year,14 mo,$87.7
+Patient #3,Male,Two year,55 mo,$23.2
+Patient #4,Male,Month-to-month,30 mo,$70.5
+Patient #5,Male,Two year,26 mo,$91.6
+Patient #6,Female,Month-to-month,58 mo,$78.9
+Patient #7,Male,Month-to-month,55 mo,$54.0
+Patient #8,Male,Month-to-month,44 mo,$30.2
+Patient #9,Female,Month-to-month,46 mo,$104.7
+Patient #10,Female,Month-to-month,59 mo,$73.6
+Patient #11,Female,Month-to-month,71 mo,$49.3
+Patient #12,Female,Two year,25 mo,$90.5
+Patient #13,Male,Two year,30 mo,$97.3
+Patient #14,Male,Month-to-month,13 mo,$58.0
+Patient #15,Female,Two year,47 mo,$36.3
+Patient #16,Female,Month-to-month,35 mo,$90.2
+Patient #17,Male,Two year,22 mo,$73.4
+Patient #18,Male,Month-to-month,60 mo,$57.9
+Patient #19,Male,Two year,42 mo,$104.3
+Patient #20,Male,Month-to-month,5 mo,$100.5
+Patient #21,Female,One year,9 mo,$41.1
+Patient #22,Female,Month-to-month,64 mo,$59.6
+Patient #23,Female,Month-to-month,34 mo,$34.0
+Patient #24,Female,Two year,55 mo,$109.8
+Patient #25,Female,One year,29 mo,$119.7
+Patient #26,Male,Two year,64 mo,$29.1
+Patient #27,Male,Month-to-month,20 mo,$82.7
+Patient #28,Female,Two year,9 mo,$58.5
+Patient #29,Female,Two year,33 mo,$117.1
+Patient #30,Male,Two year,15 mo,$88.2
+Patient #31,Female,Two year,44 mo,$31.2
+Patient #32,Female,Month-to-month,59 mo,$20.3
+Patient #33,Female,Two year,23 mo,$70.8
+Patient #34,Male,Two year,39 mo,$104.2
+Patient #35,Male,Month-to-month,48 mo,$96.3
+Patient #36,Male,Two year,42 mo,$68.9
+Patient #37,Male,One year,40 mo,$43.9
+Patient #38,Male,Two year,11 mo,$28.6
+Patient #39,Female,Month-to-month,69 mo,$96.6
+Patient #40,Male,Two year,61 mo,$114.7
+Patient #41,Male,One year,68 mo,$107.2
+Patient #42,Female,Month-to-month,70 mo,$95.5
+Patient #43,Male,Two year,40 mo,$59.9
+Patient #44,Female,One year,67 mo,$65.1
+Patient #45,Male,Month-to-month,9 mo,$53.8
+Patient #46,Male,Two year,29 mo,$20.7
+Patient #47,Male,Month-to-month,9 mo,$110.5
+Patient #48,Female,Month-to-month,66 mo,$43.8
+Patient #49,Female,Month-to-month,70 mo,$33.2
+Patient #50,Female,Month-to-month,61 mo,$100.7
+Patient #51,Male,Month-to-month,13 mo,$85.9
+Patient #52,Female,One year,53 mo,$66.7
+Patient #53,Male,Two year,13 mo,$26.1
+Patient #54,Female,Month-to-month,32 mo,$39.2
+Patient #55,Female,Month-to-month,55 mo,$38.3
+Patient #56,Female,Month-to-month,10 mo,$64.3
+Patient #57,Male,Month-to-month,70 mo,$103.6
+Patient #58,Male,Month-to-month,22 mo,$60.6
+Patient #59,Female,Month-to-month,52 mo,$110.2
+Patient #60,Male,One year,1 mo,$118.5
+Patient #61,Female,One year,37 mo,$62.3
+Patient #62,Female,Month-to-month,25 mo,$49.7
+Patient #63,Male,Two year,70 mo,$26.1
+Patient #64,Female,Month-to-month,7 mo,$78.4
+Patient #65,Male,Month-to-month,66 mo,$28.0
+Patient #66,Male,Month-to-month,9 mo,$87.5
+Patient #67,Male,One year,16 mo,$114.2
+Patient #68,Male,Two year,6 mo,$81.9
+Patient #69,Female,Two year,67 mo,$51.6
+Patient #70,Female,Month-to-month,41 mo,$43.9
+Patient #71,Female,Month-to-month,39 mo,$65.7
+Patient #72,Male,Month-to-month,59 mo,$82.1
+Patient #73,Male,Month-to-month,69 mo,$41.3
+Patient #74,Female,Month-to-month,45 mo,$108.1
+Patient #75,Male,One year,37 mo,$35.8
+Patient #76,Female,Two year,68 mo,$20.8
+Patient #77,Female,Two year,14 mo,$113.9
+Patient #78,Male,One year,15 mo,$109.0
+Patient #79,Male,One year,37 mo,$80.5
+Patient #80,Female,Month-to-month,34 mo,$70.5
+Patient #81,Female,Month-to-month,12 mo,$83.4
+Patient #82,Female,Month-to-month,1 mo,$53.4
+Patient #83,Male,Two year,34 mo,$36.2
+Patient #84,Female,Two year,55 mo,$76.1
+Patient #85,Male,Month-to-month,20 mo,$74.6
+Patient #86,Female,Two year,71 mo,$34.8
+Patient #87,Male,Month-to-month,40 mo,$56.5
+Patient #88,Male,One year,27 mo,$88.2
+Patient #89,Male,One year,72 mo,$108.4
+Patient #90,Female,Two year,20 mo,$112.6
+Patient #91,Male,Month-to-month,23 mo,$108.1
+Patient #92,Male,Month-to-month,43 mo,$98.2
+Patient #93,Female,Two year,32 mo,$46.7
+Patient #94,Male,One year,5 mo,$105.9
+Patient #95,Male,Month-to-month,59 mo,$55.0
+Patient #96,Male,Month-to-month,4 mo,$86.0
+Patient #97,Female,One year,36 mo,$106.4
+Patient #98,Female,One year,66 mo,$60.0
+Patient #99,Female,Month-to-month,15 mo,$107.7
+Patient #100,Female,Month-to-month,34 mo,$23.8
+Patient #101,Female,One year,41 mo,$63.6
+Patient #102,Male,One year,25 mo,$45.5
+Patient #103,Female,Month-to-month,67 mo,$112.6
+Patient #104,Male,One year,56 mo,$27.0
+Patient #105,Female,Two year,41 mo,$86.3
+Patient #106,Male,Two year,39 mo,$70.7
+Patient #107,Female,One year,52 mo,$89.7
+Patient #108,Male,Month-to-month,54 mo,$86.5
+Patient #109,Female,Two year,23 mo,$81.6
+Patient #110,Female,One year,71 mo,$103.4
+Patient #111,Female,One year,27 mo,$63.0
+Patient #112,Female,One year,57 mo,$64.2
+Patient #113,Male,Two year,61 mo,$99.4
+Patient #114,Male,Two year,11 mo,$48.4
+Patient #115,Female,Month-to-month,31 mo,$87.3
+Patient #116,Male,Month-to-month,19 mo,$22.4
+Patient #117,Male,One year,10 mo,$65.5
+Patient #118,Male,Two year,50 mo,$69.4
+Patient #119,Male,Month-to-month,1 mo,$109.3
+Patient #120,Male,One year,29 mo,$37.6
+Patient #121,Female,Month-to-month,72 mo,$44.9
+Patient #122,Male,One year,18 mo,$100.1
+Patient #123,Female,One year,65 mo,$62.7
+Patient #124,Female,Month-to-month,61 mo,$65.0
+Patient #125,Male,Two year,36 mo,$96.6
+Patient #126,Female,Two year,31 mo,$47.5
+Patient #127,Male,Two year,37 mo,$43.4
+Patient #128,Female,One year,70 mo,$28.1
+Patient #129,Male,Month-to-month,50 mo,$89.4
+Patient #130,Male,Month-to-month,54 mo,$60.8
+Patient #131,Female,One year,8 mo,$40.7
+Patient #132,Female,One year,3 mo,$105.7
+Patient #133,Female,One year,1 mo,$114.3
+Patient #134,Female,One year,54 mo,$73.8
+Patient #135,Male,One year,29 mo,$47.3
+Patient #136,Female,Month-to-month,50 mo,$53.6
+Patient #137,Female,Two year,22 mo,$104.1
+Patient #138,Male,Two year,69 mo,$22.7
+Patient #139,Female,Two year,4 mo,$28.4
+Patient #140,Female,Month-to-month,60 mo,$38.2
+Patient #141,Female,One year,42 mo,$41.2
+Patient #142,Female,One year,49 mo,$47.8
+Patient #143,Female,One year,11 mo,$67.0
+Patient #144,Male,One year,29 mo,$85.0
+Patient #145,Male,Month-to-month,32 mo,$39.9
+Patient #146,Male,Two year,20 mo,$43.9
+Patient #147,Female,Two year,15 mo,$76.4
+Patient #148,Male,One year,33 mo,$96.7
+Patient #149,Male,Two year,15 mo,$97.8
+Patient #150,Male,One year,14 mo,$77.9
+Patient #151,Female,Two year,49 mo,$59.7
+Patient #152,Male,Month-to-month,32 mo,$30.2
+Patient #153,Female,Two year,16 mo,$99.6
+Patient #154,Male,One year,69 mo,$62.8
+Patient #155,Female,Month-to-month,65 mo,$84.8
+Patient #156,Male,One year,63 mo,$30.6
+Patient #157,Female,Two year,59 mo,$90.7
+Patient #158,Female,Month-to-month,67 mo,$116.5
+Patient #159,Female,Two year,69 mo,$97.5
+Patient #160,Female,One year,35 mo,$52.2
+Patient #161,Male,Month-to-month,36 mo,$108.2
+Patient #162,Male,One year,49 mo,$53.6
+Patient #163,Female,One year,24 mo,$68.8
+Patient #164,Female,One year,44 mo,$48.0
+Patient #165,Female,Two year,2 mo,$71.7
+Patient #166,Male,Month-to-month,31 mo,$92.0
+Patient #167,Female,Two year,31 mo,$89.1
+Patient #168,Female,One year,3 mo,$29.3
+Patient #169,Male,One year,32 mo,$50.6
+Patient #170,Female,One year,71 mo,$73.1
+Patient #171,Female,Two year,71 mo,$53.1
+Patient #172,Female,One year,40 mo,$45.1
+Patient #173,Male,Two year,25 mo,$51.6
+Patient #174,Male,Month-to-month,28 mo,$93.9
+Patient #175,Female,Two year,68 mo,$79.7
+Patient #176,Male,Month-to-month,38 mo,$42.7
+Patient #177,Male,One year,2 mo,$90.8
+Patient #178,Male,One year,6 mo,$117.4
+Patient #179,Female,Two year,17 mo,$83.8
+Patient #180,Female,Month-to-month,2 mo,$77.4
+Patient #181,Female,One year,57 mo,$54.1
+Patient #182,Male,One year,62 mo,$31.4
+Patient #183,Male,One year,63 mo,$27.4
+Patient #184,Male,Month-to-month,20 mo,$101.1
+Patient #185,Female,Month-to-month,32 mo,$31.8
+Patient #186,Female,Two year,29 mo,$97.6
+Patient #187,Female,One year,57 mo,$49.7
+Patient #188,Female,One year,8 mo,$81.0
+Patient #189,Male,Month-to-month,28 mo,$46.5
+Patient #190,Male,Month-to-month,31 mo,$37.4
+Patient #191,Male,Month-to-month,1 mo,$60.9
+Patient #192,Female,One year,5 mo,$43.1
+Patient #193,Female,Two year,59 mo,$27.1
+Patient #194,Male,One year,26 mo,$62.5
+Patient #195,Male,Two year,20 mo,$110.8
+Patient #196,Male,Month-to-month,8 mo,$36.6
+Patient #197,Female,Two year,37 mo,$63.9
+Patient #198,Female,Two year,39 mo,$90.0
+Patient #199,Female,Two year,70 mo,$69.4
+Patient #200,Male,Two year,6 mo,$108.9
+Patient #201,Female,Two year,33 mo,$22.6
+Patient #202,Male,Two year,3 mo,$120.0
+Patient #203,Female,Two year,6 mo,$96.3
+Patient #204,Male,One year,67 mo,$85.2
+Patient #205,Female,Month-to-month,56 mo,$83.5
+Patient #206,Female,Month-to-month,61 mo,$54.8
+Patient #207,Female,One year,14 mo,$105.8
+Patient #208,Female,One year,64 mo,$48.8
+Patient #209,Female,Two year,5 mo,$65.5
+Patient #210,Female,One year,42 mo,$31.6
+Patient #211,Female,Two year,1 mo,$85.8
+Patient #212,Female,One year,7 mo,$38.8
+Patient #213,Female,Two year,64 mo,$82.5
+Patient #214,Male,Month-to-month,35 mo,$74.9
+Patient #215,Female,One year,63 mo,$32.1
+Patient #216,Male,Two year,21 mo,$51.1
+Patient #217,Male,Two year,53 mo,$29.3
+Patient #218,Male,One year,16 mo,$84.8
+Patient #219,Male,One year,38 mo,$70.9
+Patient #220,Female,One year,62 mo,$118.0
+Patient #221,Male,One year,71 mo,$34.5
+Patient #222,Male,Two year,66 mo,$94.6
+Patient #223,Male,Month-to-month,36 mo,$97.3
+Patient #224,Female,One year,65 mo,$46.7
+Patient #225,Male,One year,39 mo,$103.7
+Patient #226,Female,Month-to-month,58 mo,$73.9
+Patient #227,Female,One year,71 mo,$96.3
+Patient #228,Female,One year,42 mo,$107.0
+Patient #229,Male,Two year,50 mo,$43.4
+Patient #230,Female,Month-to-month,41 mo,$94.5
+Patient #231,Female,One year,20 mo,$69.5
+Patient #232,Male,Month-to-month,65 mo,$116.5
+Patient #233,Female,Month-to-month,57 mo,$30.0
+Patient #234,Female,Month-to-month,19 mo,$61.0
+Patient #235,Male,Month-to-month,61 mo,$98.2
+Patient #236,Female,One year,51 mo,$85.0
+Patient #237,Female,Two year,69 mo,$58.0
+Patient #238,Female,Two year,63 mo,$107.2
+Patient #239,Male,Two year,9 mo,$43.5
+Patient #240,Female,Month-to-month,12 mo,$63.4
+Patient #241,Male,Two year,13 mo,$64.4
+Patient #242,Female,Month-to-month,6 mo,$52.4
+Patient #243,Male,One year,46 mo,$57.5
+Patient #244,Male,Month-to-month,68 mo,$61.2
+Patient #245,Male,Month-to-month,23 mo,$27.9
+Patient #246,Female,Two year,31 mo,$69.8
+Patient #247,Male,Month-to-month,60 mo,$83.8
+Patient #248,Female,One year,2 mo,$109.9
+Patient #249,Female,One year,70 mo,$35.8
+Patient #250,Female,One year,39 mo,$83.9
+Patient #251,Female,Two year,33 mo,$65.7
+Patient #252,Female,Month-to-month,50 mo,$105.3
+Patient #253,Male,Month-to-month,49 mo,$77.2
+Patient #254,Female,Two year,38 mo,$22.2
+Patient #255,Female,One year,2 mo,$76.6
+Patient #256,Male,Two year,64 mo,$103.3
+Patient #257,Female,Month-to-month,46 mo,$41.9
+Patient #258,Male,Two year,33 mo,$87.8
+Patient #259,Male,Two year,13 mo,$110.3
+Patient #260,Male,One year,57 mo,$23.3
+Patient #261,Female,Two year,17 mo,$29.0
+Patient #262,Female,One year,54 mo,$37.6
+Patient #263,Male,Two year,47 mo,$73.1
+Patient #264,Female,Month-to-month,33 mo,$111.4
+Patient #265,Female,One year,44 mo,$100.4
+Patient #266,Female,Month-to-month,19 mo,$95.4
+Patient #267,Male,Two year,51 mo,$116.7
+Patient #268,Female,Month-to-month,51 mo,$21.4
+Patient #269,Male,One year,48 mo,$87.3
+Patient #270,Female,Two year,49 mo,$102.2
+Patient #271,Female,Month-to-month,30 mo,$67.1
+Patient #272,Female,Two year,29 mo,$84.8
+Patient #273,Female,Two year,39 mo,$84.9
+Patient #274,Male,Month-to-month,6 mo,$114.6
+Patient #275,Female,One year,15 mo,$29.7
+Patient #276,Male,One year,59 mo,$57.1
+Patient #277,Female,Two year,20 mo,$108.5
+Patient #278,Male,One year,53 mo,$113.9
+Patient #279,Female,Month-to-month,48 mo,$41.7
+Patient #280,Female,Month-to-month,47 mo,$29.9
+Patient #281,Female,Two year,46 mo,$26.1
+Patient #282,Female,Month-to-month,16 mo,$114.9
+Patient #283,Female,Month-to-month,28 mo,$84.2
+Patient #284,Male,Month-to-month,43 mo,$44.4
+Patient #285,Male,Two year,27 mo,$26.9
+Patient #286,Male,Two year,28 mo,$101.3
+Patient #287,Male,One year,19 mo,$98.9
+Patient #288,Male,One year,19 mo,$118.8
+Patient #289,Female,Month-to-month,15 mo,$86.1
+Patient #290,Male,Month-to-month,2 mo,$55.8
+Patient #291,Male,Two year,42 mo,$21.6
+Patient #292,Female,Month-to-month,17 mo,$94.2
+Patient #293,Male,Two year,9 mo,$67.6
+Patient #294,Female,Two year,14 mo,$65.2
+Patient #295,Male,Two year,6 mo,$92.7
+Patient #296,Female,One year,4 mo,$26.1
+Patient #297,Female,One year,55 mo,$88.6
+Patient #298,Female,Two year,57 mo,$27.3
+Patient #299,Male,One year,19 mo,$26.6
+Patient #300,Female,Two year,71 mo,$91.2
+Patient #301,Female,Two year,68 mo,$49.5
+Patient #302,Female,Month-to-month,15 mo,$105.3
+Patient #303,Male,One year,58 mo,$108.8
+Patient #304,Female,One year,59 mo,$59.9
+Patient #305,Male,One year,55 mo,$51.3
+Patient #306,Female,One year,20 mo,$88.7
+Patient #307,Female,Month-to-month,12 mo,$103.2
+Patient #308,Male,One year,13 mo,$94.5
+Patient #309,Female,Month-to-month,72 mo,$26.0
+Patient #310,Female,Two year,16 mo,$61.1
+Patient #311,Female,Two year,7 mo,$116.8
+Patient #312,Female,One year,14 mo,$77.8
+Patient #313,Male,Month-to-month,62 mo,$42.4
+Patient #314,Male,One year,72 mo,$56.8
+Patient #315,Female,Two year,29 mo,$100.7
+Patient #316,Male,Two year,35 mo,$22.9
+Patient #317,Female,Two year,40 mo,$112.2
+Patient #318,Female,Month-to-month,24 mo,$107.0
+Patient #319,Female,Month-to-month,19 mo,$94.1
+Patient #320,Male,Month-to-month,68 mo,$41.5
+Patient #321,Female,One year,44 mo,$35.7
+Patient #322,Female,Two year,42 mo,$97.7
+Patient #323,Male,Month-to-month,20 mo,$35.7
+Patient #324,Male,Two year,11 mo,$47.2
+Patient #325,Female,One year,57 mo,$61.4
+Patient #326,Male,Two year,15 mo,$54.5
+Patient #327,Male,One year,63 mo,$72.7
+Patient #328,Female,Month-to-month,29 mo,$59.5
+Patient #329,Male,Month-to-month,27 mo,$50.1
+Patient #330,Male,Month-to-month,33 mo,$48.9
+Patient #331,Male,Month-to-month,64 mo,$94.7
+Patient #332,Male,Month-to-month,49 mo,$73.3
+Patient #333,Male,Two year,72 mo,$103.3
+Patient #334,Female,Month-to-month,51 mo,$106.2
+Patient #335,Male,One year,3 mo,$66.0
+Patient #336,Male,One year,55 mo,$77.3
+Patient #337,Female,One year,15 mo,$60.5
+Patient #338,Female,Month-to-month,59 mo,$103.2
+Patient #339,Female,Month-to-month,56 mo,$104.4
+Patient #340,Male,One year,52 mo,$72.4
+Patient #341,Female,One year,44 mo,$42.2
+Patient #342,Male,Month-to-month,66 mo,$83.3
+Patient #343,Male,One year,45 mo,$92.7
+Patient #344,Male,Month-to-month,14 mo,$34.6
+Patient #345,Male,Month-to-month,20 mo,$96.0
+Patient #346,Male,Month-to-month,64 mo,$66.4
+Patient #347,Female,Two year,42 mo,$106.4
+Patient #348,Female,Month-to-month,57 mo,$26.8
+Patient #349,Female,Two year,39 mo,$99.6
+Patient #350,Male,One year,65 mo,$27.4
+Patient #351,Female,One year,5 mo,$25.7
+Patient #352,Female,Month-to-month,12 mo,$81.5
+Patient #353,Female,One year,71 mo,$115.4
+Patient #354,Male,One year,25 mo,$52.2
+Patient #355,Female,Two year,20 mo,$115.8
+Patient #356,Female,Month-to-month,44 mo,$118.2
+Patient #357,Male,Two year,23 mo,$23.9
+Patient #358,Female,One year,68 mo,$72.3
+Patient #359,Male,One year,48 mo,$111.8
+Patient #360,Female,One year,44 mo,$87.9
+Patient #361,Male,Two year,43 mo,$26.6
+Patient #362,Male,Two year,50 mo,$48.4
+Patient #363,Male,One year,11 mo,$78.3
+Patient #364,Male,One year,40 mo,$116.8
+Patient #365,Female,Month-to-month,11 mo,$51.0
+Patient #366,Female,Two year,43 mo,$101.3
+Patient #367,Male,Two year,55 mo,$70.8
+Patient #368,Male,One year,40 mo,$38.0
+Patient #369,Male,One year,63 mo,$39.2
+Patient #370,Male,Month-to-month,10 mo,$49.6
+Patient #371,Male,Two year,70 mo,$103.5
+Patient #372,Male,Two year,44 mo,$107.6
+Patient #373,Male,Two year,49 mo,$35.4
+Patient #374,Male,Two year,22 mo,$92.1
+Patient #375,Male,One year,47 mo,$87.6
+Patient #376,Male,One year,37 mo,$95.2
+Patient #377,Female,Month-to-month,69 mo,$43.9
+Patient #378,Female,Month-to-month,48 mo,$87.8
+Patient #379,Female,One year,37 mo,$97.8
+Patient #380,Female,Month-to-month,26 mo,$100.1
+Patient #381,Male,One year,7 mo,$84.1
+Patient #382,Female,Two year,14 mo,$91.1
+Patient #383,Male,One year,11 mo,$96.3
+Patient #384,Female,One year,66 mo,$34.7
+Patient #385,Female,Month-to-month,29 mo,$101.7
+Patient #386,Female,Month-to-month,54 mo,$25.3
+Patient #387,Female,Month-to-month,50 mo,$119.5
+Patient #388,Female,Month-to-month,4 mo,$51.9
+Patient #389,Male,Two year,43 mo,$99.1
+Patient #390,Male,Month-to-month,37 mo,$111.7
+Patient #391,Female,Two year,18 mo,$95.9
+Patient #392,Female,One year,1 mo,$110.6
+Patient #393,Male,One year,28 mo,$103.5
+Patient #394,Female,Month-to-month,37 mo,$43.8
+Patient #395,Male,Month-to-month,31 mo,$62.0
+Patient #396,Female,Month-to-month,15 mo,$103.7
+Patient #397,Female,Two year,69 mo,$21.6
+Patient #398,Male,Two year,19 mo,$49.1
+Patient #399,Male,Two year,46 mo,$44.1
+Patient #400,Female,Month-to-month,11 mo,$72.3
+Patient #401,Female,Month-to-month,68 mo,$74.4
+Patient #402,Male,One year,61 mo,$24.4
+Patient #403,Female,One year,33 mo,$94.7
+Patient #404,Female,Month-to-month,45 mo,$44.1
+Patient #405,Male,Two year,43 mo,$33.3
+Patient #406,Female,Two year,44 mo,$101.4
+Patient #407,Male,Two year,60 mo,$118.1
+Patient #408,Female,Two year,24 mo,$101.1
+Patient #409,Male,Two year,59 mo,$23.7
+Patient #410,Male,Month-to-month,26 mo,$108.6
+Patient #411,Female,One year,66 mo,$59.8
+Patient #412,Female,One year,5 mo,$95.3
+Patient #413,Male,One year,46 mo,$106.2
+Patient #414,Male,Two year,43 mo,$47.3
+Patient #415,Female,One year,52 mo,$94.3
+Patient #416,Female,One year,24 mo,$69.6
+Patient #417,Female,One year,67 mo,$46.7
+Patient #418,Male,Two year,55 mo,$27.9
+Patient #419,Male,Two year,38 mo,$52.1
+Patient #420,Male,One year,38 mo,$50.6
+Patient #421,Female,Month-to-month,57 mo,$55.2
+Patient #422,Male,Two year,46 mo,$81.5
+Patient #423,Female,One year,8 mo,$27.5
+Patient #424,Female,One year,66 mo,$100.1
+Patient #425,Male,Month-to-month,19 mo,$104.9
+Patient #426,Female,Month-to-month,17 mo,$26.7
+Patient #427,Female,One year,50 mo,$114.9
+Patient #428,Male,Two year,20 mo,$87.9
+Patient #429,Female,One year,57 mo,$96.3
+Patient #430,Male,Two year,47 mo,$59.8
+Patient #431,Female,Month-to-month,15 mo,$22.6
+Patient #432,Male,One year,67 mo,$58.7
+Patient #433,Male,One year,34 mo,$90.4
+Patient #434,Male,Two year,37 mo,$89.4
+Patient #435,Female,Month-to-month,16 mo,$33.6
+Patient #436,Male,One year,23 mo,$109.9
+Patient #437,Female,Month-to-month,41 mo,$86.8
+Patient #438,Male,Two year,70 mo,$49.0
+Patient #439,Female,Month-to-month,23 mo,$99.4
+Patient #440,Male,Month-to-month,26 mo,$99.2
+Patient #441,Male,One year,4 mo,$56.1
+Patient #442,Female,One year,71 mo,$33.0
+Patient #443,Male,Month-to-month,40 mo,$59.8
+Patient #444,Female,Two year,53 mo,$96.9
+Patient #445,Male,Month-to-month,41 mo,$84.2
+Patient #446,Female,One year,67 mo,$54.5
+Patient #447,Male,Month-to-month,56 mo,$70.3
+Patient #448,Male,Month-to-month,67 mo,$35.3
+Patient #449,Male,Month-to-month,42 mo,$113.5
+Patient #450,Male,One year,67 mo,$109.5
+Patient #451,Male,One year,26 mo,$83.5
+Patient #452,Female,Month-to-month,39 mo,$81.4
+Patient #453,Male,Two year,22 mo,$79.2
+Patient #454,Male,Month-to-month,44 mo,$104.3
+Patient #455,Male,Month-to-month,11 mo,$24.5
+Patient #456,Female,Two year,27 mo,$96.7
+Patient #457,Female,Two year,4 mo,$69.8
+Patient #458,Female,Two year,39 mo,$68.3
+Patient #459,Female,One year,59 mo,$27.3
+Patient #460,Male,Month-to-month,57 mo,$61.6
+Patient #461,Female,Month-to-month,44 mo,$80.7
+Patient #462,Female,Two year,41 mo,$93.4
+Patient #463,Female,One year,17 mo,$96.1
+Patient #464,Male,One year,31 mo,$66.6
+Patient #465,Female,One year,32 mo,$34.1
+Patient #466,Male,One year,50 mo,$106.4
+Patient #467,Female,Month-to-month,21 mo,$101.3
+Patient #468,Female,Month-to-month,21 mo,$69.8
+Patient #469,Female,One year,40 mo,$69.7
+Patient #470,Male,One year,65 mo,$65.7
+Patient #471,Male,Month-to-month,46 mo,$24.9
+Patient #472,Female,One year,61 mo,$48.6
+Patient #473,Male,Month-to-month,56 mo,$33.4
+Patient #474,Female,Two year,47 mo,$96.4
+Patient #475,Female,Month-to-month,52 mo,$25.1
+Patient #476,Male,One year,71 mo,$48.9
+Patient #477,Female,Two year,58 mo,$96.4
+Patient #478,Female,Two year,16 mo,$32.9
+Patient #479,Male,One year,48 mo,$99.5
+Patient #480,Female,Two year,47 mo,$95.5
+Patient #481,Male,Two year,66 mo,$60.1
+Patient #482,Male,Month-to-month,5 mo,$33.7
+Patient #483,Female,One year,67 mo,$65.7
+Patient #484,Male,One year,41 mo,$36.3
+Patient #485,Female,Two year,44 mo,$70.7
+Patient #486,Female,Two year,39 mo,$67.5
+Patient #487,Male,One year,43 mo,$87.4
+Patient #488,Female,Two year,40 mo,$99.7
+Patient #489,Male,Two year,61 mo,$46.6
+Patient #490,Male,Two year,7 mo,$78.4
+Patient #491,Male,Two year,49 mo,$34.8
+Patient #492,Male,Month-to-month,15 mo,$39.1
+Patient #493,Female,One year,54 mo,$35.1
+Patient #494,Male,One year,65 mo,$97.5
+Patient #495,Female,Two year,8 mo,$90.6
+Patient #496,Male,Two year,42 mo,$119.8
+Patient #497,Female,Two year,49 mo,$51.4
+Patient #498,Male,One year,69 mo,$54.2
+Patient #499,Female,Two year,34 mo,$81.0
+Patient #500,Male,Month-to-month,36 mo,$75.8
+Patient #501,Male,One year,37 mo,$90.5
+Patient #502,Female,One year,62 mo,$54.9
+Patient #503,Female,One year,16 mo,$77.3
+Patient #504,Female,One year,45 mo,$115.5
+Patient #505,Male,One year,6 mo,$48.8
+Patient #506,Male,One year,57 mo,$85.6
+Patient #507,Female,Month-to-month,26 mo,$102.8
+Patient #508,Female,Two year,35 mo,$33.7
+Patient #509,Male,Month-to-month,7 mo,$87.0
+Patient #510,Male,Two year,30 mo,$25.2
+Patient #511,Female,One year,61 mo,$30.1
+Patient #512,Male,Month-to-month,71 mo,$117.8
+Patient #513,Male,One year,61 mo,$67.7
+Patient #514,Male,One year,42 mo,$48.5
+Patient #515,Male,Month-to-month,30 mo,$73.5
+Patient #516,Male,Month-to-month,54 mo,$108.2
+Patient #517,Male,Month-to-month,51 mo,$98.8
+Patient #518,Male,Two year,38 mo,$107.7
+Patient #519,Male,One year,14 mo,$112.8
+Patient #520,Female,One year,59 mo,$118.9
+Patient #521,Female,Month-to-month,65 mo,$66.8
+Patient #522,Male,Month-to-month,43 mo,$36.2
+Patient #523,Female,Two year,33 mo,$91.9
+Patient #524,Male,Two year,44 mo,$99.1
+Patient #525,Male,Month-to-month,52 mo,$102.7
+Patient #526,Female,Month-to-month,52 mo,$86.9
+Patient #527,Male,Month-to-month,62 mo,$52.4
+Patient #528,Male,Month-to-month,34 mo,$58.4
+Patient #529,Female,One year,43 mo,$50.2
+Patient #530,Male,One year,47 mo,$89.3
+Patient #531,Male,Two year,16 mo,$66.5
+Patient #532,Male,One year,65 mo,$112.3
+Patient #533,Female,Two year,16 mo,$83.9
+Patient #534,Female,One year,29 mo,$41.9
+Patient #535,Male,One year,20 mo,$65.5
+Patient #536,Female,One year,71 mo,$111.3
+Patient #537,Male,Month-to-month,11 mo,$72.6
+Patient #538,Female,Month-to-month,15 mo,$26.2
+Patient #539,Male,Two year,69 mo,$35.0
+Patient #540,Female,Two year,57 mo,$31.6
+Patient #541,Male,Two year,63 mo,$29.1
+Patient #542,Female,Month-to-month,59 mo,$33.2
+Patient #543,Female,One year,8 mo,$75.9
+Patient #544,Female,Two year,3 mo,$59.6
+Patient #545,Male,Two year,28 mo,$77.8
+Patient #546,Male,One year,45 mo,$90.0
+Patient #547,Male,Month-to-month,61 mo,$23.2
+Patient #548,Female,Month-to-month,18 mo,$96.6
+Patient #549,Female,One year,49 mo,$64.9
+Patient #550,Female,One year,11 mo,$88.3
+Patient #551,Male,Two year,45 mo,$31.9
+Patient #552,Female,Two year,17 mo,$92.8
+Patient #553,Male,Month-to-month,3 mo,$117.8
+Patient #554,Female,Two year,70 mo,$62.4
+Patient #555,Female,Month-to-month,32 mo,$66.1
+Patient #556,Male,One year,25 mo,$113.7
+Patient #557,Male,Month-to-month,54 mo,$81.5
+Patient #558,Male,Month-to-month,27 mo,$26.7
+Patient #559,Male,One year,7 mo,$44.5
+Patient #560,Male,One year,57 mo,$43.4
+Patient #561,Male,Month-to-month,18 mo,$70.4
+Patient #562,Female,Month-to-month,41 mo,$77.7
+Patient #563,Female,Month-to-month,39 mo,$107.6
+Patient #564,Male,One year,39 mo,$47.5
+Patient #565,Male,Two year,55 mo,$75.6
+Patient #566,Male,One year,49 mo,$98.6
+Patient #567,Female,Two year,54 mo,$60.8
+Patient #568,Female,One year,24 mo,$95.4
+Patient #569,Female,Month-to-month,29 mo,$50.1
+Patient #570,Male,One year,8 mo,$76.2
+Patient #571,Female,Two year,68 mo,$33.4
+Patient #572,Male,One year,27 mo,$53.0
+Patient #573,Male,One year,48 mo,$29.2
+Patient #574,Male,Month-to-month,35 mo,$57.7
+Patient #575,Male,Month-to-month,25 mo,$100.5
+Patient #576,Male,One year,27 mo,$106.9
+Patient #577,Female,One year,2 mo,$41.2
+Patient #578,Male,Two year,16 mo,$94.7
+Patient #579,Female,Month-to-month,27 mo,$59.7
+Patient #580,Male,Two year,42 mo,$97.6
+Patient #581,Female,One year,69 mo,$84.9
+Patient #582,Female,One year,47 mo,$71.3
+Patient #583,Female,One year,13 mo,$100.3
+Patient #584,Female,One year,27 mo,$57.1
+Patient #585,Female,Month-to-month,29 mo,$94.1
+Patient #586,Male,One year,71 mo,$113.5
+Patient #587,Female,One year,20 mo,$39.6
+Patient #588,Male,One year,32 mo,$69.9
+Patient #589,Female,One year,63 mo,$116.7
+Patient #590,Female,One year,22 mo,$93.3
+Patient #591,Female,Month-to-month,18 mo,$92.0
+Patient #592,Female,Month-to-month,70 mo,$119.0
+Patient #593,Male,Two year,5 mo,$103.9
+Patient #594,Male,Two year,7 mo,$96.4
+Patient #595,Female,Month-to-month,30 mo,$26.8
+Patient #596,Male,Month-to-month,28 mo,$70.6
+Patient #597,Female,Month-to-month,62 mo,$85.9
+Patient #598,Male,Month-to-month,69 mo,$75.2
+Patient #599,Male,Month-to-month,68 mo,$92.2
+Patient #600,Female,Month-to-month,65 mo,$101.3
+Patient #601,Female,Month-to-month,14 mo,$111.8
+Patient #602,Male,Month-to-month,25 mo,$82.0
+Patient #603,Female,One year,35 mo,$99.5
+Patient #604,Male,One year,52 mo,$65.9
+Patient #605,Male,Two year,29 mo,$50.0
+Patient #606,Male,Two year,5 mo,$29.4
+Patient #607,Female,One year,71 mo,$67.6
+Patient #608,Male,Two year,22 mo,$28.3
+Patient #609,Female,Two year,43 mo,$76.6
+Patient #610,Male,Two year,6 mo,$43.0
+Patient #611,Female,One year,6 mo,$112.4
+Patient #612,Female,Two year,5 mo,$37.9
+Patient #613,Female,Month-to-month,27 mo,$78.7
+Patient #614,Female,Month-to-month,39 mo,$36.2
+Patient #615,Male,Two year,50 mo,$87.7
+Patient #616,Female,One year,18 mo,$99.0
+Patient #617,Male,Two year,45 mo,$25.4
+Patient #618,Female,Month-to-month,10 mo,$54.1
+Patient #619,Female,One year,4 mo,$83.4
+Patient #620,Female,One year,30 mo,$55.6
+Patient #621,Female,One year,24 mo,$88.0
+Patient #622,Female,Month-to-month,38 mo,$99.8
+Patient #623,Male,Month-to-month,35 mo,$35.4
+Patient #624,Male,Two year,50 mo,$51.7
+Patient #625,Male,Month-to-month,1 mo,$114.3
+Patient #626,Female,One year,35 mo,$30.2
+Patient #627,Male,Month-to-month,56 mo,$64.9
+Patient #628,Female,Month-to-month,4 mo,$29.0
+Patient #629,Male,Two year,42 mo,$106.4
+Patient #630,Male,One year,53 mo,$58.8
+Patient #631,Male,Two year,72 mo,$110.5
+Patient #632,Male,Two year,67 mo,$37.0
+Patient #633,Female,Month-to-month,18 mo,$46.9
+Patient #634,Female,One year,19 mo,$26.3
+Patient #635,Female,One year,54 mo,$50.0
+Patient #636,Male,One year,33 mo,$114.4
+Patient #637,Female,Two year,26 mo,$65.8
+Patient #638,Male,One year,1 mo,$114.9
+Patient #639,Female,Two year,49 mo,$100.4
+Patient #640,Female,One year,43 mo,$63.1
+Patient #641,Male,One year,42 mo,$80.3
+Patient #642,Male,One year,41 mo,$37.8
+Patient #643,Female,One year,38 mo,$93.5
+Patient #644,Female,Two year,32 mo,$52.6
+Patient #645,Female,One year,47 mo,$31.4
+Patient #646,Male,Two year,70 mo,$38.0
+Patient #647,Male,Two year,60 mo,$114.3
+Patient #648,Male,One year,38 mo,$103.1
+Patient #649,Male,One year,64 mo,$33.9
+Patient #650,Female,Month-to-month,33 mo,$85.9
+Patient #651,Female,One year,10 mo,$64.9
+Patient #652,Female,Two year,52 mo,$73.4
+Patient #653,Female,Two year,5 mo,$99.1
+Patient #654,Female,Two year,69 mo,$79.4
+Patient #655,Male,Month-to-month,32 mo,$85.8
+Patient #656,Female,Month-to-month,6 mo,$76.3
+Patient #657,Female,One year,56 mo,$30.6
+Patient #658,Male,One year,29 mo,$71.1
+Patient #659,Male,One year,48 mo,$59.1
+Patient #660,Male,One year,4 mo,$68.3
+Patient #661,Female,One year,11 mo,$31.6
+Patient #662,Male,One year,40 mo,$54.3
+Patient #663,Male,Two year,62 mo,$54.8
+Patient #664,Male,One year,58 mo,$51.9
+Patient #665,Female,Month-to-month,15 mo,$22.3
+Patient #666,Female,Two year,14 mo,$87.7
+Patient #667,Male,Two year,32 mo,$71.6
+Patient #668,Male,One year,72 mo,$62.6
+Patient #669,Female,Month-to-month,52 mo,$83.0
+Patient #670,Male,Two year,56 mo,$59.6
+Patient #671,Male,One year,55 mo,$58.9
+Patient #672,Male,Month-to-month,36 mo,$95.2
+Patient #673,Male,Two year,14 mo,$100.0
+Patient #674,Male,One year,42 mo,$39.7
+Patient #675,Male,One year,63 mo,$72.8
+Patient #676,Female,Two year,50 mo,$81.1
+Patient #677,Male,One year,46 mo,$104.6
+Patient #678,Male,Two year,39 mo,$111.9
+Patient #679,Male,Two year,18 mo,$51.3
+Patient #680,Male,One year,15 mo,$38.3
+Patient #681,Male,Two year,50 mo,$61.8
+Patient #682,Male,Two year,50 mo,$62.3
+Patient #683,Female,Two year,69 mo,$89.3
+Patient #684,Male,Two year,22 mo,$69.0
+Patient #685,Male,Month-to-month,41 mo,$104.2
+Patient #686,Male,One year,2 mo,$68.5
+Patient #687,Male,One year,72 mo,$70.5
+Patient #688,Female,One year,63 mo,$61.6
+Patient #689,Female,One year,22 mo,$28.3
+Patient #690,Male,Month-to-month,38 mo,$23.3
+Patient #691,Male,Two year,37 mo,$36.8
+Patient #692,Female,Two year,64 mo,$75.0
+Patient #693,Male,Two year,15 mo,$46.8
+Patient #694,Female,Two year,6 mo,$96.0
+Patient #695,Female,Two year,28 mo,$119.0
+Patient #696,Male,Two year,32 mo,$49.8
+Patient #697,Male,One year,34 mo,$54.9
+Patient #698,Male,One year,16 mo,$97.6
+Patient #699,Male,Month-to-month,45 mo,$106.1
+Patient #700,Female,Month-to-month,18 mo,$98.5
+Patient #701,Male,Month-to-month,45 mo,$73.2
+Patient #702,Male,One year,38 mo,$48.9
+Patient #703,Female,Two year,13 mo,$33.6
+Patient #704,Female,Month-to-month,36 mo,$106.7
+Patient #705,Male,Two year,17 mo,$45.0
+Patient #706,Female,Month-to-month,51 mo,$68.9
+Patient #707,Female,Two year,54 mo,$57.5
+Patient #708,Male,Two year,12 mo,$60.3
+Patient #709,Female,Two year,48 mo,$65.5
+Patient #710,Female,One year,1 mo,$106.9
+Patient #711,Male,Two year,59 mo,$83.5
+Patient #712,Female,Month-to-month,69 mo,$59.8
+Patient #713,Female,Month-to-month,64 mo,$46.9
+Patient #714,Female,One year,71 mo,$77.8
+Patient #715,Female,One year,7 mo,$24.6
+Patient #716,Female,Month-to-month,16 mo,$112.9
+Patient #717,Male,One year,59 mo,$20.1
+Patient #718,Female,Month-to-month,17 mo,$108.2
+Patient #719,Female,Month-to-month,36 mo,$29.3
+Patient #720,Female,One year,11 mo,$57.2
+Patient #721,Male,Month-to-month,51 mo,$82.6
+Patient #722,Male,One year,12 mo,$90.4
+Patient #723,Male,Month-to-month,62 mo,$27.8
+Patient #724,Male,Two year,57 mo,$20.9
+Patient #725,Female,Month-to-month,55 mo,$89.4
+Patient #726,Female,Month-to-month,30 mo,$58.3
+Patient #727,Male,Month-to-month,41 mo,$56.8
+Patient #728,Female,Month-to-month,49 mo,$97.3
+Patient #729,Male,Two year,19 mo,$26.8
+Patient #730,Male,Two year,22 mo,$64.0
+Patient #731,Male,Two year,20 mo,$112.0
+Patient #732,Female,Month-to-month,12 mo,$109.7
+Patient #733,Male,Month-to-month,50 mo,$55.2
+Patient #734,Female,One year,18 mo,$44.8
+Patient #735,Male,Month-to-month,71 mo,$80.1
+Patient #736,Female,Two year,4 mo,$104.8
+Patient #737,Female,Month-to-month,67 mo,$80.7
+Patient #738,Male,Two year,51 mo,$49.6
+Patient #739,Male,Month-to-month,64 mo,$58.6
+Patient #740,Male,One year,10 mo,$72.8
+Patient #741,Male,One year,41 mo,$33.2
+Patient #742,Female,One year,70 mo,$88.3
+Patient #743,Female,Month-to-month,3 mo,$78.7
+Patient #744,Male,One year,28 mo,$24.0
+Patient #745,Male,One year,65 mo,$48.6
+Patient #746,Female,One year,52 mo,$28.2
+Patient #747,Male,One year,11 mo,$51.0
+Patient #748,Male,Month-to-month,69 mo,$52.7
+Patient #749,Male,One year,56 mo,$93.0
+Patient #750,Male,Month-to-month,32 mo,$28.6
+Patient #751,Female,Month-to-month,59 mo,$81.2
+Patient #752,Male,One year,23 mo,$31.9
+Patient #753,Male,Two year,2 mo,$36.4
+Patient #754,Female,Two year,67 mo,$98.3
+Patient #755,Female,Month-to-month,48 mo,$32.7
+Patient #756,Female,Two year,16 mo,$97.1
+Patient #757,Male,One year,55 mo,$47.2
+Patient #758,Male,One year,10 mo,$69.6
+Patient #759,Female,Month-to-month,64 mo,$105.9
+Patient #760,Male,One year,21 mo,$45.5
+Patient #761,Male,Two year,15 mo,$42.8
+Patient #762,Male,Month-to-month,2 mo,$44.5
+Patient #763,Female,One year,50 mo,$112.0
+Patient #764,Male,Month-to-month,71 mo,$100.3
+Patient #765,Female,Month-to-month,42 mo,$44.8
+Patient #766,Female,One year,10 mo,$77.2
+Patient #767,Male,Two year,7 mo,$37.9
+Patient #768,Male,One year,9 mo,$107.7
+Patient #769,Female,One year,42 mo,$28.6
+Patient #770,Female,Month-to-month,48 mo,$40.1
+Patient #771,Female,Two year,32 mo,$66.4
+Patient #772,Female,Month-to-month,70 mo,$96.0
+Patient #773,Male,Month-to-month,1 mo,$113.2
+Patient #774,Male,Month-to-month,70 mo,$54.6
+Patient #775,Male,One year,1 mo,$95.9
+Patient #776,Female,Two year,40 mo,$30.4
+Patient #777,Male,One year,63 mo,$116.1
+Patient #778,Male,Two year,36 mo,$29.3
+Patient #779,Male,Two year,53 mo,$90.1
+Patient #780,Female,One year,11 mo,$78.1
+Patient #781,Male,Two year,51 mo,$27.5
+Patient #782,Male,One year,17 mo,$43.7
+Patient #783,Female,One year,51 mo,$90.1
+Patient #784,Female,One year,58 mo,$47.2
+Patient #785,Male,Month-to-month,18 mo,$98.0
+Patient #786,Male,Month-to-month,14 mo,$36.4
+Patient #787,Female,One year,53 mo,$32.1
+Patient #788,Female,Month-to-month,58 mo,$50.8
+Patient #789,Female,Month-to-month,12 mo,$35.8
+Patient #790,Female,Two year,6 mo,$41.5
+Patient #791,Female,Month-to-month,12 mo,$91.1
+Patient #792,Female,One year,66 mo,$24.9
+Patient #793,Female,One year,23 mo,$23.1
+Patient #794,Female,One year,72 mo,$94.8
+Patient #795,Male,Month-to-month,60 mo,$30.2
+Patient #796,Male,Month-to-month,2 mo,$26.2
+Patient #797,Male,Month-to-month,26 mo,$102.4
+Patient #798,Female,Two year,11 mo,$78.2
+Patient #799,Female,Month-to-month,3 mo,$119.7
+Patient #800,Male,Two year,57 mo,$100.9
+Patient #801,Male,One year,16 mo,$24.3
+Patient #802,Female,Month-to-month,22 mo,$112.4
+Patient #803,Female,Two year,51 mo,$69.6
+Patient #804,Female,Two year,55 mo,$37.3
+Patient #805,Male,Month-to-month,36 mo,$48.0
+Patient #806,Male,Month-to-month,32 mo,$84.7
+Patient #807,Female,One year,71 mo,$67.9
+Patient #808,Male,One year,50 mo,$33.7
+Patient #809,Male,Two year,68 mo,$44.9
+Patient #810,Male,One year,46 mo,$68.0
+Patient #811,Female,One year,65 mo,$52.2
+Patient #812,Female,Month-to-month,4 mo,$51.9
+Patient #813,Male,Month-to-month,36 mo,$25.9
+Patient #814,Female,Two year,46 mo,$96.7
+Patient #815,Male,Month-to-month,13 mo,$44.8
+Patient #816,Male,One year,69 mo,$101.6
+Patient #817,Male,Month-to-month,50 mo,$55.5
+Patient #818,Male,Month-to-month,31 mo,$79.3
+Patient #819,Female,Two year,4 mo,$90.3
+Patient #820,Female,Two year,19 mo,$76.3
+Patient #821,Male,One year,70 mo,$50.9
+Patient #822,Female,Month-to-month,12 mo,$25.6
+Patient #823,Male,Month-to-month,68 mo,$67.8
+Patient #824,Female,Two year,26 mo,$100.6
+Patient #825,Female,Two year,23 mo,$111.9
+Patient #826,Female,Month-to-month,3 mo,$34.8
+Patient #827,Male,Month-to-month,68 mo,$106.1
+Patient #828,Male,One year,51 mo,$78.6
+Patient #829,Female,One year,42 mo,$33.6
+Patient #830,Male,Two year,56 mo,$99.2
+Patient #831,Female,Two year,41 mo,$37.4
+Patient #832,Female,Month-to-month,23 mo,$57.8
+Patient #833,Female,Month-to-month,23 mo,$92.9
+Patient #834,Female,Two year,5 mo,$38.2
+Patient #835,Female,Two year,29 mo,$84.0
+Patient #836,Male,One year,19 mo,$53.1
+Patient #837,Male,Month-to-month,45 mo,$118.2
+Patient #838,Male,Two year,12 mo,$102.2
+Patient #839,Female,One year,2 mo,$46.5
+Patient #840,Male,Two year,9 mo,$55.0
+Patient #841,Male,Two year,1 mo,$24.8
+Patient #842,Female,Two year,54 mo,$116.9
+Patient #843,Female,One year,49 mo,$55.1
+Patient #844,Female,Month-to-month,62 mo,$98.9
+Patient #845,Male,Month-to-month,58 mo,$27.4
+Patient #846,Male,One year,3 mo,$51.9
+Patient #847,Male,Month-to-month,44 mo,$37.0
+Patient #848,Female,Month-to-month,10 mo,$74.7
+Patient #849,Male,One year,62 mo,$90.5
+Patient #850,Female,Two year,22 mo,$80.7
+Patient #851,Female,Month-to-month,7 mo,$30.1
+Patient #852,Male,Month-to-month,53 mo,$89.7
+Patient #853,Female,Two year,37 mo,$49.7
+Patient #854,Male,Month-to-month,51 mo,$77.2
+Patient #855,Female,Month-to-month,7 mo,$56.1
+Patient #856,Female,Month-to-month,38 mo,$102.4
+Patient #857,Female,Month-to-month,13 mo,$22.6
+Patient #858,Male,Two year,38 mo,$117.7
+Patient #859,Female,Month-to-month,40 mo,$98.5
+Patient #860,Female,One year,34 mo,$29.1
+Patient #861,Female,Month-to-month,48 mo,$108.5
+Patient #862,Female,Month-to-month,58 mo,$24.5
+Patient #863,Female,One year,34 mo,$42.6
+Patient #864,Female,Two year,8 mo,$35.1
+Patient #865,Male,Month-to-month,45 mo,$100.8
+Patient #866,Female,Two year,30 mo,$75.4
+Patient #867,Female,Two year,54 mo,$116.6
+Patient #868,Female,Two year,31 mo,$67.6
+Patient #869,Male,One year,5 mo,$70.2
+Patient #870,Male,Month-to-month,58 mo,$37.3
+Patient #871,Male,Month-to-month,25 mo,$32.6
+Patient #872,Female,Month-to-month,56 mo,$40.2
+Patient #873,Male,Two year,34 mo,$52.0
+Patient #874,Male,Month-to-month,50 mo,$75.6
+Patient #875,Female,One year,67 mo,$65.8
+Patient #876,Male,Two year,67 mo,$98.2
+Patient #877,Male,One year,20 mo,$34.8
+Patient #878,Male,Month-to-month,13 mo,$98.6
+Patient #879,Female,One year,34 mo,$58.3
+Patient #880,Female,Two year,61 mo,$23.7
+Patient #881,Female,One year,19 mo,$81.8
+Patient #882,Female,Month-to-month,51 mo,$109.0
+Patient #883,Female,Two year,31 mo,$24.9
+Patient #884,Female,One year,48 mo,$22.0
+Patient #885,Female,One year,36 mo,$104.3
+Patient #886,Male,Month-to-month,18 mo,$50.0
+Patient #887,Female,One year,35 mo,$92.9
+Patient #888,Male,Month-to-month,57 mo,$41.1
+Patient #889,Female,Two year,63 mo,$95.9
+Patient #890,Female,Month-to-month,66 mo,$99.1
+Patient #891,Male,One year,65 mo,$60.3
+Patient #892,Male,Month-to-month,25 mo,$107.5
+Patient #893,Male,Month-to-month,32 mo,$23.3
+Patient #894,Male,One year,26 mo,$47.4
+Patient #895,Female,Two year,51 mo,$83.5
+Patient #896,Male,Two year,4 mo,$44.2
+Patient #897,Female,Two year,58 mo,$37.8
+Patient #898,Female,Two year,71 mo,$55.0
+Patient #899,Male,One year,12 mo,$48.5
+Patient #900,Female,Month-to-month,21 mo,$105.4
+Patient #901,Male,Month-to-month,29 mo,$87.8
+Patient #902,Female,Two year,53 mo,$71.3
+Patient #903,Male,One year,17 mo,$84.7
+Patient #904,Male,Month-to-month,33 mo,$80.8
+Patient #905,Female,Two year,36 mo,$62.4
+Patient #906,Female,One year,59 mo,$45.2
+Patient #907,Female,One year,67 mo,$102.4
+Patient #908,Female,Two year,14 mo,$20.7
+Patient #909,Female,Two year,37 mo,$49.8
+Patient #910,Male,One year,9 mo,$53.6
+Patient #911,Female,Two year,42 mo,$106.1
+Patient #912,Female,Two year,39 mo,$38.8
+Patient #913,Male,Month-to-month,52 mo,$86.1
+Patient #914,Male,Two year,4 mo,$85.5
+Patient #915,Female,One year,54 mo,$60.5
+Patient #916,Male,Two year,25 mo,$54.3
+Patient #917,Male,Two year,69 mo,$83.8
+Patient #918,Female,Two year,46 mo,$70.7
+Patient #919,Male,Two year,72 mo,$38.1
+Patient #920,Male,One year,17 mo,$94.1
+Patient #921,Male,Two year,43 mo,$85.4
+Patient #922,Male,One year,29 mo,$94.4
+Patient #923,Female,One year,43 mo,$57.2
+Patient #924,Female,One year,16 mo,$67.1
+Patient #925,Male,One year,25 mo,$70.0
+Patient #926,Female,Two year,39 mo,$61.3
+Patient #927,Male,Month-to-month,26 mo,$54.3
+Patient #928,Female,Month-to-month,41 mo,$106.2
+Patient #929,Male,Month-to-month,63 mo,$53.3
+Patient #930,Male,One year,8 mo,$20.5
+Patient #931,Female,Month-to-month,22 mo,$77.6
+Patient #932,Male,One year,12 mo,$32.9
+Patient #933,Female,Two year,55 mo,$60.3
+Patient #934,Female,One year,1 mo,$23.8
+Patient #935,Male,Two year,48 mo,$115.0
+Patient #936,Female,Two year,25 mo,$21.8
+Patient #937,Male,Two year,32 mo,$42.6
+Patient #938,Female,One year,17 mo,$30.3
+Patient #939,Female,Month-to-month,9 mo,$102.4
+Patient #940,Female,One year,59 mo,$92.8
+Patient #941,Female,One year,18 mo,$54.3
+Patient #942,Female,One year,25 mo,$36.5
+Patient #943,Female,Month-to-month,30 mo,$42.4
+Patient #944,Male,Month-to-month,3 mo,$79.0
+Patient #945,Male,Month-to-month,47 mo,$91.1
+Patient #946,Male,One year,33 mo,$97.1
+Patient #947,Male,Two year,7 mo,$86.2
+Patient #948,Male,Month-to-month,15 mo,$61.7
+Patient #949,Female,Month-to-month,71 mo,$45.3
+Patient #950,Male,Month-to-month,2 mo,$50.1
+Patient #951,Male,Two year,67 mo,$47.0
+Patient #952,Male,One year,14 mo,$71.2
+Patient #953,Male,One year,15 mo,$98.5
+Patient #954,Female,Month-to-month,26 mo,$97.8
+Patient #955,Male,One year,53 mo,$49.5
+Patient #956,Male,Two year,64 mo,$111.0
+Patient #957,Female,One year,31 mo,$20.3
+Patient #958,Male,Month-to-month,64 mo,$34.9
+Patient #959,Male,Two year,10 mo,$92.4
+Patient #960,Male,One year,30 mo,$65.7
+Patient #961,Female,One year,60 mo,$25.0
+Patient #962,Male,Month-to-month,38 mo,$56.0
+Patient #963,Female,One year,15 mo,$29.5
+Patient #964,Male,Month-to-month,18 mo,$86.3
+Patient #965,Male,One year,46 mo,$109.5
+Patient #966,Female,Two year,12 mo,$57.3
+Patient #967,Female,Month-to-month,15 mo,$60.1
+Patient #968,Female,One year,50 mo,$89.0
+Patient #969,Female,One year,22 mo,$31.3
+Patient #970,Male,Month-to-month,14 mo,$61.6
+Patient #971,Female,Two year,57 mo,$38.1
+Patient #972,Female,One year,4 mo,$106.3
+Patient #973,Male,One year,63 mo,$31.3
+Patient #974,Female,One year,6 mo,$26.3
+Patient #975,Female,Month-to-month,68 mo,$96.8
+Patient #976,Male,Two year,44 mo,$71.9
+Patient #977,Male,One year,32 mo,$68.2
+Patient #978,Female,Month-to-month,72 mo,$109.2
+Patient #979,Male,Month-to-month,21 mo,$70.6
+Patient #980,Female,One year,22 mo,$27.5
+Patient #981,Female,One year,31 mo,$53.1
+Patient #982,Female,Month-to-month,65 mo,$42.3
+Patient #983,Female,One year,31 mo,$27.9
+Patient #984,Female,Two year,58 mo,$28.8
+Patient #985,Female,One year,41 mo,$31.9
+Patient #986,Female,Two year,3 mo,$30.3
+Patient #987,Female,Month-to-month,72 mo,$74.9
+Patient #988,Male,Two year,39 mo,$109.0
+Patient #989,Male,Two year,59 mo,$115.0
+Patient #990,Female,Month-to-month,29 mo,$104.4
+Patient #991,Female,Two year,61 mo,$91.7
+Patient #992,Female,Two year,58 mo,$31.4
+Patient #993,Male,Month-to-month,44 mo,$55.5
+Patient #994,Female,Two year,67 mo,$57.4
+Patient #995,Male,Month-to-month,22 mo,$69.2
+Patient #996,Female,Month-to-month,33 mo,$81.1
+Patient #997,Male,Month-to-month,51 mo,$41.6
+Patient #998,Male,Two year,44 mo,$30.8
+Patient #999,Female,Month-to-month,16 mo,$97.2
+Patient #1000,Female,One year,65 mo,$33.5
